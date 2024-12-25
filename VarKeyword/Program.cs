@@ -19,7 +19,7 @@
             var money = 14.99M;
             Console.WriteLine(money);
 
-            var name = "Junho";
+            var name = "Junho";  
             Console.WriteLine(name);
 
             var a = 'a';
